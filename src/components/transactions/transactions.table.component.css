@@ -1,0 +1,10 @@
+.table-styles {
+    margin: 50px;
+}
+
+.btn-goback {
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+    margin-left: 0px;
+}

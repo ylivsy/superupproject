@@ -1,0 +1,42 @@
+
+.table-style {
+    margin: 50px;
+}
+
+.header-color {
+    background: #337ab7;
+}
+
+.btns-style {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.btn {
+    padding: 10px 15px ;
+    margin: 10px;
+    margin-left: 0px;
+    border-radius: 20px;
+    border-color: #222222;
+    border-width: 2px;
+    font-family: "Arial";
+
+}
+
+.btn-execute:hover,
+.btn-execute:active {
+    background-color: #337ab7;
+    transition: border 0.3s, color 0.3s;
+}
+
+.btn-payment:hover,
+.btn-payment:active {
+
+    background-color: dodgerblue;
+}
+
+.btn-cancel:hover,
+.btn-cancel:active {
+
+    background-color: cornflowerblue;
+}
