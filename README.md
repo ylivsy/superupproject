@@ -1,3 +1,7 @@
+This project show ReactJs functionalit, Shows a demo salary system for execute salaries and manage the data in tables.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
