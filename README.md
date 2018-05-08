@@ -1,4 +1,4 @@
-This project show ReactJs functionalit, Shows a demo salary system for execute salaries and manage the data in tables.
+This project show ReactJs functionality, Shows a demo salary system for execute salaries and manage the data in tables.
 
 
 
